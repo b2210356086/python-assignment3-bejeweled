@@ -1,2 +1,2 @@
-# python-assignment3-bejeweled
-Python Assignment on a Bejeweled/Candy Crush game
+# python-assignment3-candy_crush
+Python Assignment on a Candy Crush based game
